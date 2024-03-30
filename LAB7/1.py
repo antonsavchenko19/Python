@@ -1,3 +1,4 @@
+import random
 guess = int(input("Введите ваше число: "))
 target = 100
 
